@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "- Bugs fixed",
+        "force_update": "false",
+        "package_name": "com.banix.aiphotogenerator.aiphotoeditor",
+        "version_code": 1,
+        "version_name": "1.0",
+        "new_package_name": "com.banix.aiphotogenerator.aiphotoeditor"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
