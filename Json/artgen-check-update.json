@@ -2,11 +2,11 @@
   "data": {
     "app_info": [
       {
-        "what_news": "- Fis some bugs",
+        "what_news": "- Fix some bugs",
         "force_update": "true",
         "package_name": "com.banix.aiphotogenerator.aiphotoeditor",
-        "version_code": 38,
-        "version_name": "4.7",
+        "version_code": 41,
+        "version_name": "5.0",
         "new_package_name": "com.banix.aiphotogenerator.aiphotoeditor"
       }
     ]
